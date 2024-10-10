@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CalculoIMC
 {
@@ -17,7 +17,7 @@ namespace CalculoIMC
             double imc = CalcularIMC(peso, altura);
 
             // Exibe o IMC
-            Console.WriteLine($"\nSeu IMC é: {imc:F2}");
+            Console.WriteLine($"\nSeu IMC é: {imc}");
 
             // Exibe a classificação correspondente
             Console.WriteLine("Classificação: " + ClassificarIMC(imc));
