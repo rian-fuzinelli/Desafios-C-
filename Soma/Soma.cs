@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SomaNumeros
 {
@@ -8,7 +8,7 @@ namespace SomaNumeros
         {
             int soma = 0;
 
-            // Estrutura de repetição for para somar os números de 1 a 10
+            // Loop para somar números de 1 a 10
             for (int i = 1; i <= 10; i++)
             {
                 soma += i;
