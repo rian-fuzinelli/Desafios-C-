@@ -14,11 +14,16 @@ Tecnologias Utilizadas:
 ## ➕ `Soma`
 ![image](https://github.com/user-attachments/assets/dadb0ea6-adbf-48bb-b9f0-cfd8e61f7374)
 
-## `Resultado1`
+-----------------------------------------------------------------------------------------
+
+## ➗ `Resultado da Calculadora`
 
 ![image](https://github.com/user-attachments/assets/820e4bfa-f25f-46e3-865e-8dff7694770e)
 
-## `Resultado2`
+## 🏋️‍♂️ `Resultado do IMC`
 
 ![image](https://github.com/user-attachments/assets/5c52b450-1f5d-4a50-9675-732523cb7829)
 
+## ➕ `Resultado da Soma`
+
+![image](https://github.com/user-attachments/assets/2f2f3def-9632-4fc3-9124-198484cb74dc)
